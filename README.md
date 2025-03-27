@@ -33,7 +33,7 @@ A robust Node.js backend API for an E-commerce application with features like us
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Amr3303/E-commerce.git
 cd E-commerce-app
 ```
 
